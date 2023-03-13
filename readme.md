@@ -8,6 +8,7 @@ And within that 'App Service Plan' create a Web App.
 Since we are deploying python app, pick the following instance details,  
 Runtime stack: Python && Operating system: Linux  
 Review+Create.  
+  
 The web app is up and running and is ready to receive the app's code.  
 On the web app resource, Deployment center -> source: Local Git  
 Copy the Git Clone Uri (we will use this later)  
