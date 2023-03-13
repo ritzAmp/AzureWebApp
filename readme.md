@@ -34,7 +34,7 @@ git commit -m "Initial commit"
 ```
 
 
-##### App deeployment options:
+**App deeployment options:**
 1. From local repository to Azure App Services
 2. Build a pipeline within AzureDevOps and deploy to Azure App Services 
 
